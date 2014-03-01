@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<!--     <EditTextPreference -->
+<!--         android:dialogTitle="@string/title_enter_xbmc" -->
+<!--         android:title="@string/xbmc_host" -->
+<!--         android:key="pref_xbmcip" -->
+<!--         android:id="@+id/xbmcip"/> -->
+<!--     <EditTextPreference -->
+<!--         android:dialogTitle="@string/title_enter_xbmc_port" -->
+<!--         android:key="pref_xbmcport" -->
+<!--         android:title="@string/xbmc_port" -->
+<!--         android:numeric="integer" -->
+<!--         android:id="@+id/xbmcport"/> -->
+<!--     <EditTextPreference -->
+<!--         android:dialogTitle="@string/title_enter_xbmc_user" -->
+<!--         android:key="pref_xbmcuser" -->
+<!--         android:title="@string/xbmc_user" -->
+<!--         android:id="@+id/xbmcuser"/> -->
+<!--     <EditTextPreference -->
+<!--         android:dialogTitle="@string/title_enter_xbmc_passwd" -->
+<!--         android:key="pref_xbmcpasswd" -->
+<!--         android:title="@string/xbmc_passwd" -->
+<!--         android:inputType="textPassword" -->
+<!--         android:id="@+id/xbmcpasswd"/> -->
+    
+</PreferenceScreen>
